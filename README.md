@@ -11,6 +11,16 @@
 * **Display repository details:**  Get important information like the owner, number of stars, forks, open issues, and language. ✨
 * **Interactive mode:**  Analyze multiple repositories without leaving the terminal! 💻
 
+## Get instant summaries:
+![image](https://github.com/user-attachments/assets/c75f62eb-17f6-4c40-bfe5-aa804dea261b)
+
+
+## Even code summaries:
+
+![image](https://github.com/user-attachments/assets/9d93db9a-95dc-40ae-aabc-ded04e7f62f4)
+
+
+
 ### ✨ How to Use GitSherlock ✨
 
 1. **Install Python:** Make sure you have Python installed on your system.

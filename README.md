@@ -15,12 +15,17 @@
 
 ### ✨ How to Use GitSherlock ✨
 
-1. **Install Python:** Make sure you have Python installed on your system. You can download it from [https://www.python.org/](https://www.python.org/).
-2. **Install GitSherlock:** 
-   ```bash
+1. **Install Python:** Make sure you have Python installed on your system.
+2. **Install GitSherlock:**
+    ```bash
    pip install git-sherlock 
    ```
-3. **Run GitSherlock:** 
+4. **Setup up the environment variable for Gemini API key:**
+  - For Linux:
+    ```export GEMINI_API_KEY=XXXXXXXXX```
+  - For Windows:
+    ```set GEMINI_API_KEY=XXXXXXXXX```
+6. **Run GitSherlock:** 
    ```bash
    git-sherlock -u <github_repository_url>
    ```

@@ -13,7 +13,7 @@
 
 ## See GitSherlock in action:
 
-https://github.com/user-attachments/assets/b2fb0583-a6b6-4802-a8d2-00d683d7ffe5
+https://github.com/user-attachments/assets/8f5b50ed-8208-4dca-b0d2-bc40c504c584
 
 
 ### ✨ How to Use GitSherlock ✨

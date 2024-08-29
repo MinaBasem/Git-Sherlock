@@ -11,14 +11,9 @@
 * **Display repository details:**  Get important information like the owner, number of stars, forks, open issues, and language. ✨
 * **Interactive mode:**  Analyze multiple repositories without leaving the terminal! 💻
 
-## Get instant summaries:
-![image](https://github.com/user-attachments/assets/c75f62eb-17f6-4c40-bfe5-aa804dea261b)
+## See GitSherlock in action:
 
-
-## Even code summaries:
-
-![image](https://github.com/user-attachments/assets/9d93db9a-95dc-40ae-aabc-ded04e7f62f4)
-
+https://github.com/user-attachments/assets/b2fb0583-a6b6-4802-a8d2-00d683d7ffe5
 
 
 ### ✨ How to Use GitSherlock ✨
@@ -62,10 +57,12 @@ This command will analyze the React repository and display the following:
 * **Fast and Efficient:**  Get your analysis results quickly and effortlessly. ⚡️
 * **Constantly Evolving:**  There's more to be added to the experience. 🚀
 
-### Contributions
+### Contribute to GitSherlock!
 
 Like the project and think you have room for improving it? Don't hesitate to send in a Pull Request
 
 ---
 
 **Ready to unravel the mysteries of GitHub repositories?  Install GitSherlock and start exploring!** 😎
+
+Keywords: GitHub, repository, analysis, code, file tree, summary, details, interactive, terminal, Python, tool, open source, developer, programmer, project, codebase, efficiency, documentation, learn, explore, understand, deep dive, insights, insights, detective, sleuth, unravel, explore, powerful, fast, rich output, user-friendly.

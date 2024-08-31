@@ -1,4 +1,16 @@
-## 🕵️‍♀️ GitSherlock: Your GitHub Repository Sleuth 🕵️‍♀️
+<p align="center">
+  <a><img src="/static/images/GitSherlock.png" alt="GitSherlock logo" height="200"></a>
+  <br>
+    <p align="center">
+        <b>🕵️‍♀️ GitSherlock: Your GitHub Repository Sleuth 🕵️‍♀️</b>
+        <p align="center">
+            <sub>Built with ❤︎ by
+                <a href="https://github.com/MinaBasem">Mina Basem</a>
+            </sub>
+    </p>
+</p>
+
+---
 
 **GitSherlock** is your one-stop shop for analyzing and understanding GitHub repositories! 💥 It's like a super-powered magnifying glass for code, allowing you to dive deep into any repository's structure, content, and functionality. 🔭
 
@@ -15,6 +27,9 @@
 
 https://github.com/user-attachments/assets/8f5b50ed-8208-4dca-b0d2-bc40c504c584
 
+<p align="center">
+<img height="500px" src="https://github.com/user-attachments/assets/8f5b50ed-8208-4dca-b0d2-bc40c504c584">
+</p>
 
 ### ✨ How to Use GitSherlock ✨
 

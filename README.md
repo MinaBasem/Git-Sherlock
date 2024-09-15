@@ -12,7 +12,7 @@
 
 ---
 
-**GitSherlock** is your one-stop shop for analyzing and understanding GitHub repositories! 💥 It's like a super-powered magnifying glass for code, allowing you to dive deep into any repository's structure, content, and functionality. 🔭
+**GitSherlock** is your one-stop shop for analyzing and understanding GitHub repositories! 💥 Allowing you to dive deep into any repository's structure, content, and functionality. 🔭
 
 ### ⚡ What can GitSherlock do? ⚡
 
@@ -67,10 +67,10 @@ This command will analyze the React repository and display the following:
 
 ### Features You'll Love 🎉
 
-* **Rich Terminal Output:**  Enjoy beautiful and informative output with colors and formatting! 🌈
-* **User-Friendly:**  Easy to use, even if you're new to analyzing code. 🧑‍💻
-* **Fast and Efficient:**  Get your analysis results quickly and effortlessly. ⚡️
-* **Constantly Evolving:**  There's more to be added to the experience. 🚀
+* **Rich Terminal Output:**  Beautiful and informative output with colors and formatting
+* **User-Friendly:**  Easy to use, even if you're new to analyzing code 🧑‍💻
+* **Fast and Efficient:**  Get your analysis results quickly and effortlessly ⚡️
+* **Constantly Evolving:**  There's more to be added to the experience 🚀
 
 ### Contribute to GitSherlock!
 
